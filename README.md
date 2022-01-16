@@ -1,2 +1,2 @@
-# DS-NetflixRecommender
-Data Science Capstone Project: Netflix Recommender 
+# DS-Recommender
+Data Science Capstone Project: Recommender 
