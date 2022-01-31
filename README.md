@@ -1,2 +1,3 @@
-# DS-Recommender
-Data Science Capstone Project: Recommender 
+# Capstone Project - Data Science Immersive Remote 1101 cohort, General Assembly
+
+Data Science Capstone Project: 
