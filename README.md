@@ -21,7 +21,7 @@ The success of outcome will be measured based on how accurately the models predi
 |[data](https://github.com/mh0805/Stock-price-prediction-and-forecast-with-Time-series-analysis-and-Machine-Learning/tree/main/data)|Historical trading data of stocks||
 |[images](https://github.com/mh0805/Stock-price-prediction-and-forecast-with-Time-series-analysis-and-Machine-Learning/tree/main/images)|Images/Graphs/Plots obtained from the project|
 |[Forecast with Prophet using Streamlit.py](https://github.com/mh0805/Stock-price-prediction-and-forecast-with-Time-series-analysis-and-Machine-Learning/blob/main/Forecast%20with%20Prophet%20using%20Streamlit.py)|Python Executable Script file for Streamlit app, using Prophet for stock price prediction. <br>This is a part of **Next Steps**.|
-|[Presentation Slides]()|Powerpoint Presentation Slides in PDF format.|
+|[Presentation Slides](https://github.com/mh0805/Stock-price-prediction-and-forecast-with-Time-series-analysis-and-Machine-Learning/blob/main/Presentation%20Slides.pdf)|Powerpoint Presentation Slides in PDF format.|
 
 ## Libraries & Packages
 In order to run this project properly, the following libraries and packages need to be installed:
