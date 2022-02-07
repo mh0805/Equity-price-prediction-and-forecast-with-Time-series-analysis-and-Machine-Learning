@@ -6,9 +6,9 @@ This project utilizes past 10 years of historical trading data from 2011 to 2021
 
 ## Problem Statement
 
-The goal in this project is to collect historical stock trading data using an API, and perform Time Series Analysis and Machine Learning with Autoregressive Integrated Moving Average (ARIMA) model, Vector Autoregressive (VAR) model, and Long Short-Term Memory (LSTM) model to predict and forecast future stock price. The outcome of prediction/forecast will be compared against the actual price of the equity and 
+The goal in this project is to collect historical stock trading data using an API, and perform Time Series Analysis and Machine Learning with Autoregressive Integrated Moving Average (ARIMA) model, Vector Autoregressive (VAR) model, and Long Short-Term Memory (LSTM) model to predict and forecast future stock price. 
 
-The success of outcome will be measured based on how accurately the models predict equity price of the interest and compared to the actual prices of the equities. **DISCUSS MSE HERE FOR THE COMPARISON**
+The success of outcome will be measured based on how accurately the models predict equity price of interest and compared to the actual prices of the equities using MSE and RMSE. 
 
 ## Guide to Files
 
