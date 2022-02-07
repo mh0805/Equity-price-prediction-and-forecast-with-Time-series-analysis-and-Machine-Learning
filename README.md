@@ -21,6 +21,7 @@ The success of outcome will be measured based on how accurately the models predi
 |[data](https://github.com/mh0805/Stock-price-prediction-and-forecast-with-Time-series-analysis-and-Machine-Learning/tree/main/data)|Historical trading data of stocks||
 |[images](https://github.com/mh0805/Stock-price-prediction-and-forecast-with-Time-series-analysis-and-Machine-Learning/tree/main/images)|Images/Graphs/Plots obtained from the project|
 |[Forecast with Prophet using Streamlit.py](https://github.com/mh0805/Stock-price-prediction-and-forecast-with-Time-series-analysis-and-Machine-Learning/blob/main/Forecast%20with%20Prophet%20using%20Streamlit.py)|Python Executable Script file for Streamlit app, using Prophet for stock price prediction. <br>This is a part of **Next Steps**.|
+|[Presentation Slides]()|Powerpoint Presentation Slides in PDF format.|
 
 ## Libraries & Packages
 In order to run this project properly, the following libraries and packages need to be installed:
@@ -57,7 +58,7 @@ The API was set to collect daily trading data **from 01/01/2011 to 12/31/2021**,
 |GOOG|Alphabet, Inc. (Google)|
 |MSFT|Microsoft, Inc.|
 |TSLA|Tesla, Inc.|
-|VIX|Chicago Baord Options Exchange's CBOE Volatility Index|
+|VIX|Chicago Board Options Exchange's CBOE Volatility Index|
 
 
 Obtained data is saved to a CSV file to be accessed in a separate EDA notebook. The data collection notebook also introduces another way of obtaining the same data without using an API. 
@@ -74,7 +75,7 @@ All the code for data collection can be viewed here:
 |**High**|Highest price of the equity for a given period|
 |**Low**|Lowest price of the equity for a given period|
 |**Close**|Closing price of the equity for a given period|
-|**Adj Close**|Adjusted closing price of the equity for a given period, accounting for any corporate actions, such as stock splits, dividents, and rights offerings. |
+|**Adj Close**|Adjusted closing price of the equity for a given period, accounting for any corporate actions, such as stock splits, dividends, and rights offerings. |
 |**VWAP**|Volume-Weighted Average Price of the equity, calculated by taking the total dollar value of trading in the security and dividing it by the volume of trades for a given period.|
 |**Daily_pct_change**|Daily percentage change of the equity, also referred often as daily returns. |
 |**log_Adj_Close**|Log-transformed adjusted closing price of the equity for a given period, utilized to better compare the performance of the stocks. Log transformation reduces/removes the skewness of the original data.|
