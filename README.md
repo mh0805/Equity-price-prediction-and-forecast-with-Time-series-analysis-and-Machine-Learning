@@ -148,9 +148,7 @@ grangercausalitytests(df[['Adj_Close_SPY', 'Adj_Close_QQQ']], maxlag=[253])
 
 **Summary**: From the results of Granger-Causality test, we can conclude that knowing the price of SPY is useful for predicting the future prices of stocks: AAPL, AMZN, GOOG, MSFT, QQQ, TSLA, VIX. This also goes in line with the correlation scores shown in the matrix earlier. While VIX showed low score in the correlation, it is due to VIX being the index of volatility and VIX tends to go opposite direction of the general market trend.
 
-2. ACF & PACF Plots: Autocorrelation and Partial Autocorrelation plots. These plots provide valuable information to determine the order of Autoregressive (AR) and/or Moving Average(MA) componetns of ARMA model. <br>
-
-[Read more about ACF & PACF plots written by "Thought Partner for Data"](https://towardsdatascience.com/identifying-ar-and-ma-terms-using-acf-and-pacf-plots-in-time-series-forecasting-ccb9fd073db8#:~:text=The%20ACF%20and%20PACF%20plots%20indicate%20that%20an%20MA%20(1,shows%20a%20slowly%20decreasing%20trend.&text=5%20%26%206%20show%20ACF%20and,slow%20decay%20(gradual%20decrease).)
+2. ACF & PACF Plots: Autocorrelation and Partial Autocorrelation plots. These plots provide valuable information to determine the order of Autoregressive (AR) and/or Moving Average(MA) componetns of ARMA model. 
 
 Here is an example. Lag was set to 365 to investigate for a calendar year:
 ```python
