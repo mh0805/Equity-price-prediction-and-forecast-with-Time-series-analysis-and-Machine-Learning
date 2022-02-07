@@ -279,7 +279,7 @@ Hello 👋, my name is **Mason Lee**. <br>
 
 I am recent Data Science Immersiave graduate from General Assembly. I am a passionate Data Scientist with background in Chemistry, Healthlcare, and Day-trading equities and derivatives. 
 
-**BLAH BLAH BLAH PR STATEMENTS HERE... SELL MY STORY IN THIS SECTION!!**
+**BLAH BLAH BLAH PR STATEMENTS HERE...
 
 
 <h4 align="left">Connect with me:</h4>
