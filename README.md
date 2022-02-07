@@ -277,9 +277,12 @@ It would also be interesting to investigate how other publicly available library
 
 Hello 👋, my name is **Mason Lee**. <br>
 
-I am recent Data Science Immersiave graduate from General Assembly. I am a passionate Data Scientist with background in Chemistry, Healthlcare, and Day-trading equities and derivatives. 
+I am recent Data Science Immersiave graduate from General Assembly.<br>
+Passionate Data Scientist with background in Chemistry and experience in Healthlcare, overseas trade and day-trading equities and derivatives. 
 
-**BLAH BLAH BLAH PR STATEMENTS HERE...
+Having multi-disciplinary experience sparked the interest for me in Data Science, particularly fascinated by examining and answering specific questions related to the provided data, building models to perform analysis, and making informed decisions in applicable fields that help businesses and organizations make not only more precise and accurate decisions, but also save a lot on the resources. I believe my experience and exposure in many different fields help me communicate well with the key stakeholders to drive strategic decision-making process. 
+
+As recent graduate and Data Scientist, I intend to extend my knowledge into realm of big data and SQL for not only my personal growth as Data Scientist, but also to help the key stakeholders in making informed decisions. 
 
 
 <h4 align="left">Connect with me:</h4>
